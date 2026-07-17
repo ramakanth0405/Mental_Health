@@ -1,5 +1,5 @@
 .python-version
 app.py
 pyproject.toml
-
+uv.lock
 main.py
